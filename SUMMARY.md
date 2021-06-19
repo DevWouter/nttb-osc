@@ -1,4 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [NTTB Open Source Community](README.md)
+* [FAQ](faq.md)
+
+## Organization
+
+* [OSC Organization](organization/osc-organization.md)
+* [Goals](organization/goals.md)
 
