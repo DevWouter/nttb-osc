@@ -27,7 +27,7 @@ It's important to realize that the OSC doesn't determine how projects are run or
 
 * The highest authority within the community are the facilitators
 * The highest authority within the project is project goverment
-* External organisations (including international federation) have no additional rights within the project
+* External organisations (including national/international federation) have no additional rights within the project
 * Ownership of a project is determined by the project, neither the community or the facilitator can claim ownership.
 
 Examples
