@@ -10,7 +10,7 @@
 
 * [Table Tennis Match Ranking](https://github.com/NTTB/tt-match-ranking) - A typescript/javascript library that can be used to calculate the ranking of players based on the matches they have played.
 
-## How to add a project
+## Do you want to add your own project?
 
 There are two ways:
 
